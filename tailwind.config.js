@@ -7,6 +7,9 @@ module.exports = {
         header: ["Big Shoulders Display", "cursive"],
         paragraph: ["Outfit", "sans-serif"],
       },
+      backgroundImage: {
+        "tablet-hero": "url(./assets/tablet/image-hero.jpg)",
+      },
     },
   },
   plugins: [],
